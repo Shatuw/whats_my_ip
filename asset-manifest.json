@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/whats_my_ip.git/static/css/main.3c61d41a.css",
-    "main.js": "/whats_my_ip.git/static/js/main.9d4261ec.js",
+    "main.js": "/whats_my_ip.git/static/js/main.fe95f482.js",
     "static/js/787.50ed398d.chunk.js": "/whats_my_ip.git/static/js/787.50ed398d.chunk.js",
     "static/media/logo.svg": "/whats_my_ip.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/whats_my_ip.git/index.html",
     "main.3c61d41a.css.map": "/whats_my_ip.git/static/css/main.3c61d41a.css.map",
-    "main.9d4261ec.js.map": "/whats_my_ip.git/static/js/main.9d4261ec.js.map",
+    "main.fe95f482.js.map": "/whats_my_ip.git/static/js/main.fe95f482.js.map",
     "787.50ed398d.chunk.js.map": "/whats_my_ip.git/static/js/787.50ed398d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c61d41a.css",
-    "static/js/main.9d4261ec.js"
+    "static/js/main.fe95f482.js"
   ]
 }
