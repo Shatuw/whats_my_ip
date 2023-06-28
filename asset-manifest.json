@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/whats_my_ip/static/css/main.3c61d41a.css",
-    "main.js": "/whats_my_ip/static/js/main.fb492f34.js",
+    "main.js": "/whats_my_ip/static/js/main.0031355b.js",
     "static/js/787.50ed398d.chunk.js": "/whats_my_ip/static/js/787.50ed398d.chunk.js",
     "index.html": "/whats_my_ip/index.html",
     "main.3c61d41a.css.map": "/whats_my_ip/static/css/main.3c61d41a.css.map",
-    "main.fb492f34.js.map": "/whats_my_ip/static/js/main.fb492f34.js.map",
+    "main.0031355b.js.map": "/whats_my_ip/static/js/main.0031355b.js.map",
     "787.50ed398d.chunk.js.map": "/whats_my_ip/static/js/787.50ed398d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c61d41a.css",
-    "static/js/main.fb492f34.js"
+    "static/js/main.0031355b.js"
   ]
 }
