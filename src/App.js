@@ -1,10 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import Map from "./Map.js";
 import { DateTime } from 'luxon';
 import moment from "moment-timezone";
+
+
+// deployement : 
+//https://github.com/gitname/react-gh-pages
+//https://github.com/BasharAlwarad?tab=repositories 
+//https://www.youtube.com/watch?v=7wzuievFjrk&t=14s
 
 
 function App() {
